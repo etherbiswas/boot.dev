@@ -1,10 +1,8 @@
-# Boot.dev's Backend Developer Learning Path
+# Solution collection for Boot.dev
 
 <p align="center">
   <img src="https://github.com/bootdotdev/bootdev/assets/4583705/7a1184f1-bb43-45fa-a363-f18f8309056f" />
 </p>
-
-# boot.dev
 
 A collection of solutions for [boot.dev](https://www.boot.dev) courses
 
