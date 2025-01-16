@@ -14,7 +14,17 @@ def main():
         other_dragons = [d for d in dragons if d != dragon]
         dragon.breathe_fire(3, 3, other_dragons)
 
+""""
+    for i in range(0, len(dragons)):
+        dragon = dragons[i]
+        describe(dragon)
 
+    for i in range(0, len(dragons)):
+        dragon = dragons[i]
+        other_dragons = dragons.copy()
+        del other_dragons[i]
+        dragon.breathe_fire(3, 3, other_dragons)
+"""
     # don't touch below this line
 
 
